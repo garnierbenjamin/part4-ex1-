@@ -1,0 +1,49 @@
+#grid div {
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+#grid {
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    grid-template-rows: 70px 70px 70px;
+    gap: 20px;
+}
+
+#one {
+    background-color: #b03532;
+}
+
+#two {
+    background-color: #33a8a5;
+}
+
+#three {
+    background-color: #30997a;
+}
+
+#four {
+    background-color: #6a478f;
+}
+
+#five {
+    background-color: #da6f2b;
+}
+
+#six {
+    background-color: #3d8bb1;
+}
+
+#seven {
+    background-color: #e03f3f;
+}
+
+#eight {
+    background-color: #59a627;
+}
+
+#nine {
+    background-color: #4464a1;
+}
